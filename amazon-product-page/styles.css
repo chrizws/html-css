@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: auto;
+    height: 500px;
+}
+
+.content {
+
+    display: flex;
+    margin: 20px 15px;
+    padding: 20px 15px;
+    width: 900px;
+    border: 3px solid black;
+}
+.book-content {
+    margin-right: 30px;
+}
+
+.category {
+    color: #565959;
+    font-size: 14px;
+}
+
+.href {
+    color: #007185;
+}
+
+.stars {
+    width: 120px;
+}
